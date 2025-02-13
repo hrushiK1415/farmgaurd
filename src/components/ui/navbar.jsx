@@ -6,8 +6,7 @@ const Navbar = () => {
     { title: 'Government Schemes', href: '/government-schemes' },
     { title: 'Crop Insurance', href: '/crop-insurance' },
     { title: 'Crop Prediction', href: '/crop-prediction' },
-    { title: 'Disease Detection', href: '/disease-detection' },
-    { title: 'Cyclone Warning', href: '/cyclone-warning' },
+    { title: 'Disease Detection', href: '/disease-detection' }
   ];
 
   return (
