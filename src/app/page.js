@@ -8,7 +8,7 @@ export default function Home() {
     <>
       <Head>
         
-        <title>FarmGuard - Empowering Farmers</title>
+        <title></title>
       </Head>
       <GreenGuideLandingPage />
     </>
