@@ -15,7 +15,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <Link href="/" className="text-emerald-600 font-bold text-2xl hover:text-emerald-700 transition-colors">
-              GreenGuide
+              FarmGuard
             </Link>
           </div>
           <div className="-mr-2 flex md:hidden">
