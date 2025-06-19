@@ -13,7 +13,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Green Guide",
+  title: "FarmGuard",
   description: "for Farmers",
 };
 
