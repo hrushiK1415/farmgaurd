@@ -75,7 +75,7 @@ const LearnMorePage = () => {
         {/* Header Section */}
         <div className="text-center mb-16">
           <h1 className="text-4xl font-bold text-white mb-4">
-            Discover the Power of GreenGuide
+            Discover the Power of FarmGuard
           </h1>
           <p className="text-lg text-white/90 max-w-3xl mx-auto">
             Explore our comprehensive suite of tools and features designed to revolutionize your farming experience. Each feature is crafted to address specific challenges faced by modern farmers.
